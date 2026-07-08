@@ -1,4 +1,4 @@
-Deployed link -> https://sarthak-7775.github.io/Portfolio_2025/
+Deployed link -> https://sarthak-7775.github.io/Portfolio_2026/
 
 
 Create an option to downloasd the resume on top right of resume nav bar
